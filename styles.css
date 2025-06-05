@@ -28,8 +28,8 @@ body {
 
 #ui .love {
   position: absolute;
-  top: 45%;
-  left: 43%;
+  top: 55%;
+  left: 37%;
   margin: -225px 0 0 -225px;
 }
 #ui .love:last-child .love_word {
